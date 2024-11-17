@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IRB4+Je2XWKDgxLUQ8aYW74BoE5jXy7YfwOf7jTRv1EgeOUmgPBbXy35ACBC+Z3ZxYXVyQuuKPXHErjL6jWGbQ==",
+  "dgSpecHash": "+rwS3lcmV0CwCS3rNA6FRL6O2VwtTlfpWMoEZmNatAHWDvN2vMSHf1sANaOw5H8VIOBZvcfHn+l4ZBk76Lpycg==",
   "success": true,
-  "projectFilePath": "C:\\Programmering\\Bokbutiken\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
+  "projectFilePath": "C:\\Users\\Krist\\Documents\\GitHub\\Bokbutiken\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Krist\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Krist\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -230,7 +230,11 @@
     "C:\\Users\\Krist\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Krist\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Krist\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Krist\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Krist\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": [
     {
